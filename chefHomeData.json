@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "./ChefImages/chef-1.jpg",
+    "image": "https://i.ibb.co/WD6cYV3/chef-1.jpg",
     "name": "Massimo Bottura",
     "yearsOfExperience": 35,
     "numberOfRecipes": 120,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "./ChefImages/chef-2.jpg",
+    "image": "https://i.ibb.co/X4PXxM2/chef-2.jpg",
     "name": "Carlo Cracco",
     "yearsOfExperience": 30,
     "numberOfRecipes": 80,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "./ChefImages/chef-3.jpg",
+    "image": "https://i.ibb.co/GWgszS5/chef-3.jpg",
     "name": "Gualtiero Marchesi",
     "yearsOfExperience": 50,
     "numberOfRecipes": 150,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "./ChefImages/chef-4.jpg",
+    "image": "https://i.ibb.co/FY3nCn7/chef-4.jpg",
     "name": "Antonio Cannavacciuolo",
     "yearsOfExperience": 25,
     "numberOfRecipes": 60,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "./ChefImages/chef-5.jpg",
+    "image": "https://i.ibb.co/hg6n7FD/chef-5.jpg",
     "name": "Enrico Crippa",
     "yearsOfExperience": 20,
     "numberOfRecipes": 70,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "./ChefImages/chef-6.jpg",
+    "image": "https://i.ibb.co/pRy3XKr/chef-6.jpg",
     "name": "Davide Oldani",
     "yearsOfExperience": 15,
     "numberOfRecipes": 50,
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "./ChefImages/chef-7.jpg",
+    "image": "https://i.ibb.co/Yt06K1X/chef-7.jpg",
     "name": "Niko Romito",
     "yearsOfExperience": 25,
     "numberOfRecipes": 90,
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "./ChefImages/chef-8.jpg",
+    "image": "https://i.ibb.co/Sn5B7Bq/chef-8.jpg",
     "name": "Heinz Beck",
     "yearsOfExperience": 30,
     "numberOfRecipes": 100,
