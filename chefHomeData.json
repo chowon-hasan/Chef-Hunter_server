@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "image": "https://example.com/chef1.jpg",
+    "name": "Massimo Bottura",
+    "yearsOfExperience": 35,
+    "numberOfRecipes": 120,
+    "likes": 150000
+  },
+  {
+    "id": 2,
+    "image": "https://example.com/chef2.jpg",
+    "name": "Carlo Cracco",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 80,
+    "likes": 120000
+  },
+  {
+    "id": 3,
+    "image": "https://example.com/chef3.jpg",
+    "name": "Gualtiero Marchesi",
+    "yearsOfExperience": 50,
+    "numberOfRecipes": 150,
+    "likes": 180000
+  },
+  {
+    "id": 4,
+    "image": "https://example.com/chef4.jpg",
+    "name": "Antonio Cannavacciuolo",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 60,
+    "likes": 90000
+  },
+  {
+    "id": 5,
+    "image": "https://example.com/chef5.jpg",
+    "name": "Enrico Crippa",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 70,
+    "likes": 100000
+  },
+  {
+    "id": 6,
+    "image": "https://example.com/chef6.jpg",
+    "name": "Davide Oldani",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 50,
+    "likes": 80000
+  },
+  {
+    "id": 7,
+    "image": "https://example.com/chef7.jpg",
+    "name": "Niko Romito",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 90,
+    "likes": 110000
+  },
+  {
+    "id": 8,
+    "image": "https://example.com/chef8.jpg",
+    "name": "Heinz Beck",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 100,
+    "likes": 130000
+  }
+]
