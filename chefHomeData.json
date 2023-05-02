@@ -5,7 +5,8 @@
     "name": "Massimo Bottura",
     "yearsOfExperience": 35,
     "numberOfRecipes": 120,
-    "likes": 150000
+    "likes": 150000,
+    "description": "Bottura is the chef-owner of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is known for his innovative approach to traditional Italian cuisine, incorporating modern techniques and concepts into his dishes. Bottura has been named the best chef in the world by The World's 50 Best Restaurants and has also been recognized for his philanthropic work in using food as a means of social change."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "name": "Carlo Cracco",
     "yearsOfExperience": 30,
     "numberOfRecipes": 80,
-    "likes": 120000
+    "likes": 120000,
+    "description": "Cracco is a prominent figure in the Italian culinary world, having worked at some of the country's most prestigious restaurants. He is the chef-owner of Ristorante Cracco in Milan, which has two Michelin stars. Cracco's style of cooking is characterized by his emphasis on high-quality ingredients and precise execution, as well as his incorporation of elements from other cultures into his dishes."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "name": "Gualtiero Marchesi",
     "yearsOfExperience": 50,
     "numberOfRecipes": 150,
-    "likes": 180000
+    "likes": 180000,
+    "description": "Marchesi is widely regarded as the father of modern Italian cuisine and is credited with revolutionizing the country's culinary scene in the 1980s. He was the first Italian chef to receive three Michelin stars, which he was awarded for his restaurant, Gualtiero Marchesi, in Milan. Marchesi's approach to cooking is marked by his attention to detail and his use of simple, local ingredients to create sophisticated and elegant dishes."
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
     "name": "Antonio Cannavacciuolo",
     "yearsOfExperience": 25,
     "numberOfRecipes": 60,
-    "likes": 90000
+    "likes": 90000,
+    "description": "Cannavacciuolo is the chef-owner of Villa Crespi, a two-Michelin-starred restaurant in Lake Orta, Italy. He is known for his traditional approach to Italian cuisine, with a focus on simple flavors and traditional techniques. Cannavacciuolo has also been featured on several cooking shows in Italy, including MasterChef Italia, where he served as a judge."
   },
   {
     "id": 5,
@@ -37,7 +41,8 @@
     "name": "Enrico Crippa",
     "yearsOfExperience": 20,
     "numberOfRecipes": 70,
-    "likes": 100000
+    "likes": 100000,
+    "description": "Crippa is the chef-owner of Piazza Duomo, a three-Michelin-starred restaurant in Alba, Italy. He is known for his emphasis on locally-sourced ingredients and his focus on simplicity and purity of flavor. Crippa has been awarded numerous accolades throughout his career, including the title of Best Chef in Italy by the prestigious Italian culinary guide Identità Golose."
   },
   {
     "id": 6,
@@ -45,7 +50,8 @@
     "name": "Davide Oldani",
     "yearsOfExperience": 15,
     "numberOfRecipes": 50,
-    "likes": 80000
+    "likes": 80000,
+    "description": "Oldani is the chef-owner of D'O, a Michelin-starred restaurant in Milan. He is known for his innovative approach to Italian cuisine, which he calls pop cuisine. This style of cooking is characterized by its simplicity, accessibility, and affordability, making it accessible to a wider range of diners. Oldani has been recognized for his contributions to Italian cuisine, and has been named a Knight of the Order of Merit of the Italian Republic."
   },
   {
     "id": 7,
@@ -53,7 +59,8 @@
     "name": "Niko Romito",
     "yearsOfExperience": 25,
     "numberOfRecipes": 90,
-    "likes": 110000
+    "likes": 110000,
+    "description": "Romito is the chef-owner of Reale, a three-Michelin-starred restaurant in Abruzzo, Italy. He is known for his contemporary approach to Italian cuisine, which emphasizes lightness, simplicity, and purity of flavor. Romito's style of cooking is characterized by his use of innovative techniques and his incorporation of ingredients from around the world into traditional Italian dishes."
   },
   {
     "id": 8,
@@ -61,6 +68,7 @@
     "name": "Heinz Beck",
     "yearsOfExperience": 30,
     "numberOfRecipes": 100,
-    "likes": 130000
+    "likes": 130000,
+    "description": "Beck is a German-born chef who is best known for his work at La Pergola, a three-Michelin-starred restaurant in Rome. He is known for his creative approach to Italian cuisine, which combines traditional ingredients and techniques with innovative cooking methods. Beck has been recognized for his contributions to Italian cuisine, and has been awarded numerous accolades throughout his career, including the title of Best Chef in Italy by the prestigious Italian culinary guide Identità Golose."
   }
 ]
