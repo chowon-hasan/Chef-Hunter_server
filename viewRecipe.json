@@ -1,66 +1,74 @@
 [
   {
-    "chefs_id": 1,
+    "_id": "03yr65y7ieh7363",
     "recipeName": "Tortellini in brodo",
     "image": "./recipes/1.jpg",
     "ingredients": "Pork loin, Beef loin, Carrots, Onions, Celery",
     "cookingMethod": "1. To prepare the broth, combine the pork, beef, carrots, onions, and celery in a large pot with water. Simmer for several hours, skimming the surface as needed. Strain the broth and set aside.\n2. To make the tortellini filling, combine ground pork, mortadella, Parmigiano-Reggiano, and other seasonings in a food processor until smooth. Refrigerate the filling for at least 1 hour.\n3. To make the pasta dough, combine flour and eggs in a food processor until a dough forms. Knead the dough on a floured surface until smooth, then let rest for 30 minutes.\n4. Roll the pasta dough into thin sheets, then cut into small squares. Place a small dollop of filling in the center of each square, then fold into a triangle and shape into a ring.\n5. Boil the tortellini in the reserved broth until al dente. Serve in the broth with a sprinkle of Parmigiano-Reggiano.",
-    "rating": 4.5
+    "rating": 4.5,
+    "chef_id": 1
   },
   {
-    "chefs_id": 2,
+    "_id": "54tyt76ui8ii",
     "recipeName": "Risotto alla Milanese",
     "image": "./recipes/2.jpg",
     "ingredients": "Arborio rice, Saffron, Onion, White wine, Parmigiano-Reggiano",
     "cookingMethod": "1. Combine the saffron and a ladle of hot water in a small bowl and set aside.\n2. Sauté the onion in butter in a large saucepan until translucent.\n3. Add the rice to the saucepan and toast until fragrant. Pour in the white wine and stir until evaporated.\n4. Begin adding the hot chicken stock to the rice, one ladle at a time, stirring constantly and waiting for each addition to be absorbed before adding more. Repeat this process for about 18-20 minutes, until the rice is al dente.\n5. Stir in the saffron-infused water and Parmigiano-Reggiano. Let rest for 2-3 minutes before serving.",
-    "rating": 4.2
+    "rating": 4.2,
+    "chef_id": 2
   },
   {
-    "chefs_id": 3,
+    "_id": "87yu645tee",
     "recipeName": "Risotto with Shrimp and Zucchini",
-    "image": "./recipes/3.jpg",
+    "recipe_image": "./recipes/3.jpg",
     "ingredients": "Arborio rice, vegetable broth, white wine, shrimp, zucchini, butter, Parmesan cheese, onion, garlic, salt, pepper",
     "cookingMethod": "Heat the vegetable broth in a pot and keep it simmering. In a separate pan, sauté the onion and garlic in olive oil. Add the Arborio rice and stir until it's coated with oil. Pour in the white wine and stir until it's absorbed. Start adding the hot vegetable broth one ladle at a time, stirring frequently. Continue until the rice is almost done. Add the shrimp and zucchini and continue stirring until the rice is fully cooked. Add butter and Parmesan cheese and stir until the cheese is melted. Season with salt and pepper to taste.",
-    "rating": 4.5
+    "rating": 4.5,
+    "chef_id": 3
   },
   {
-    "chefs_id": 4,
+    "_id": "98uy5463ui",
     "recipeName": "Paccheri with Tomato and Mozzarella",
-    "image": "./recipes/4.jpg",
+    "recipe_image": "./recipes/4.jpg",
     "ingredients": "Paccheri pasta, canned tomatoes, fresh mozzarella cheese, garlic, olive oil, basil, salt, pepper",
     "cookingMethod": "Cook the Paccheri pasta in boiling salted water until it's al dente. In a pan, sauté the garlic in olive oil. Add the canned tomatoes, season with salt and pepper, and cook until the sauce has thickened. Add the cooked pasta to the pan with the tomato sauce and toss until the pasta is coated. Add the fresh mozzarella cheese and torn basil leaves and toss again until the cheese has melted. Serve hot.",
-    "rating": 4.0
+    "rating": 4.0,
+    "chef_id": 4
   },
   {
-    "chefs_id": 5,
+    "_id": "873yrtrhhs65",
     "recipeName": "Pumpkin, porcini, and chestnut",
-    "image": "./recipes/5.jpg",
+    "recipe_image": "./recipes/5.jpg",
     "ingredients": "1/2 pumpkin, 1 pound porcini mushrooms, 1/2 pound peeled chestnuts, 1/2 onion, 3 tablespoons extra-virgin olive oil",
     "cookingMethod": "Preheat the oven to 180°C. Cut the pumpkin into wedges, remove the seeds and place on a baking sheet with the porcini, peeled chestnuts and onion. Drizzle with olive oil and season with salt and pepper. Roast for about 45 minutes or until the vegetables are tender. Serve hot.",
-    "rating": 4.5
+    "rating": 4.5,
+    "chef_id": 5
   },
   {
-    "chefs_id": 6,
+    "_id": "76ty53rr3ui",
     "recipeName": "Eggplant Parmesan",
-    "image": "./recipes/6.jpg",
+    "recipe_image": "./recipes/6.jpg",
     "ingredients": "2 large eggplants, 1/2 cup olive oil, 1/2 cup flour, 4 cups tomato sauce, 2 cups grated Parmesan cheese",
     "cookingMethod": "Preheat oven to 180°C. Cut eggplant into 1/4-inch thick slices. Dip eggplant slices in flour, shaking off excess. Heat oil in a large frying pan. Cook eggplant slices in batches until golden brown. Spread a thin layer of tomato sauce on the bottom of a large baking dish. Layer eggplant slices on top, overlapping slightly. Spoon tomato sauce over the eggplant. Sprinkle with Parmesan cheese. Repeat layering until all ingredients are used up, ending with a layer of tomato sauce and Parmesan cheese. Bake for 35 to 40 minutes.",
-    "rating": 4.2
+    "rating": 4.2,
+    "chef_id": 6
   },
   {
-    "chefs_id": 7,
+    "_id": "232te544tr6yui",
     "recipeName": "Risotto with Saffron",
-    "image": "./recipes/7.jpg",
+    "recipe_image": "./recipes/7.jpg",
     "ingredients": "400g Carnaroli Rice, 1 litre Vegetable Stock, 100g Butter, 1 Onion, chopped, 1g Saffron Powder",
     "cookingMethod": "Melt 50g butter in a heavy-based saucepan, add the chopped onion and cook until it is soft and transparent. Add the rice and stir well until it is coated with the butter. Add the saffron powder and stir again. Pour in the hot vegetable stock, a ladleful at a time, stirring continuously and making sure that each ladleful is absorbed before adding the next. Continue in this way until the rice is al dente. Add the remaining butter and stir well. Serve hot.",
-    "rating": 4.6
+    "rating": 4.6,
+    "chef_id": 7
   },
   {
-    "chefs_id": 8,
+    "_id": "65tt64534ikii",
     "recipeName": "Crispy Fried Chicken",
-    "image": "./recipes/8.jpg",
+    "recipe_image": "./recipes/8.jpg",
     "ingredients": "4 chicken legs, 1 cup flour, 1 tablespoon salt, 1 tablespoon garlic powder, 1 tablespoon paprika,1 teaspoon black pepper,  1 egg, beaten, oil for frying",
     "cookingMethod": "Preheat oven to 190°C. Mix flour, salt, garlic powder, paprika, and black pepper in a shallow dish. Beat egg and milk in another dish. Dip chicken in egg mixture, then coat in flour mixture. Heat oil in a frying pan. Cook chicken for about 10 minutes on each side or until golden brown. Place chicken on a baking sheet and bake for 15 minutes or until cooked through.",
-    "rating": 4.1
+    "rating": 4.1,
+    "chef_id": 8
   }
 ]

@@ -12,8 +12,11 @@ app.get("/", (req, res) => {
   res.send(chefHomeData);
 });
 
-app.get("/:id", (req, res) => {
-  res.send(viewRecipe);
+app.get("/chefDetails", (req, res) => {
+  // const id = req.params.id;
+  // console.log(id);
+  // const selectedNews = chefHomeData.find((f) => f.id === id);
+  res.send(chefHomeData);
 });
 
 app.listen(port, () => {
