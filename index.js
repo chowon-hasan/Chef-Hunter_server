@@ -4,7 +4,6 @@ const port = 3000;
 const cors = require("cors");
 
 const chefHomeData = require("./chefHomeData.json");
-const viewRecipe = require("./viewRecipe.json");
 
 app.use(cors());
 
@@ -13,9 +12,6 @@ app.get("/", (req, res) => {
 });
 
 app.get("/chefDetails", (req, res) => {
-  // const id = req.params.id;
-  // console.log(id);
-  // const selectedNews = chefHomeData.find((f) => f.id === id);
   res.send(chefHomeData);
 });
 
